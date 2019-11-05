@@ -131,5 +131,5 @@ Vue + Vue-router + Vuex + Element + Axios + v-charts + Js-cookie + nprogress + v
 ## 公众号
 
 觉得内容有帮助可以关注下我的公众号 「IT程序员的日常」一起成长。
-![Image text](../img/codeit666.png)
+![Image text](./img/codeit666.png)
 
